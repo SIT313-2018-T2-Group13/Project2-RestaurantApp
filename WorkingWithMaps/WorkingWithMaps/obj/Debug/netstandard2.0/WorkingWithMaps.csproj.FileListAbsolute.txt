@@ -1,0 +1,9 @@
+/Users/darkeung/Desktop/WorkingWithMaps/WorkingWithMaps/bin/Debug/netstandard2.0/WorkingWithMaps.deps.json
+/Users/darkeung/Desktop/WorkingWithMaps/WorkingWithMaps/bin/Debug/netstandard2.0/WorkingWithMaps.dll
+/Users/darkeung/Desktop/WorkingWithMaps/WorkingWithMaps/bin/Debug/netstandard2.0/WorkingWithMaps.pdb
+/Users/darkeung/Desktop/WorkingWithMaps/WorkingWithMaps/obj/Debug/netstandard2.0/WorkingWithMaps.csproj.CoreCompileInputs.cache
+/Users/darkeung/Desktop/WorkingWithMaps/WorkingWithMaps/obj/Debug/netstandard2.0/WorkingWithMaps.AssemblyInfoInputs.cache
+/Users/darkeung/Desktop/WorkingWithMaps/WorkingWithMaps/obj/Debug/netstandard2.0/WorkingWithMaps.AssemblyInfo.cs
+/Users/darkeung/Desktop/WorkingWithMaps/WorkingWithMaps/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/darkeung/Desktop/WorkingWithMaps/WorkingWithMaps/obj/Debug/netstandard2.0/WorkingWithMaps.dll
+/Users/darkeung/Desktop/WorkingWithMaps/WorkingWithMaps/obj/Debug/netstandard2.0/WorkingWithMaps.pdb

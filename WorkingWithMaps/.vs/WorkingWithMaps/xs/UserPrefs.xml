@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{9E84F0D9-45C6-4FE7-9E9C-888F5A2446EA}|Default">
+  <MonoDevelop.Ide.ItemProperties.WorkingWithMaps.Android PreferredExecutionTarget="Android.Nexus_5X_API_26" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Source Not Available">
+    <Files>
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="iOS/Entitlements.plist" />
+      <File FileName="Android/Properties/AndroidManifest.xml" Line="5" Column="118" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/11.14.0.14/lib/msbuild/iOS/Xamarin.iOS.Common.targets" Line="646" Column="3" />
+      <File FileName="Source Not Available" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WorkingWithMaps.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.04EC2910-42F0-4B63-B720-09C1215F1287" />
+</Properties>
