@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{61E1333D-98DC-4CBE-BFBD-17FD1B9A6F3B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CFSessionDB/CFSessionDB/View/RestauantList.xaml">
+    <Files>
+      <File FileName="CFSessionDB/CFSessionDB/ViewModel/SessionsListViewModel.cs" Line="58" Column="38" />
+      <File FileName="CFSessionDB/CFSessionDB/View/SessionListPage.xaml" Line="23" Column="15" />
+      <File FileName="CFSessionDB/CFSessionDB/View/SessionListPage.xaml.cs" Line="18" Column="67" />
+      <File FileName="CFSessionDB/CFSessionDB/View/RestauantList.xaml.cs" Line="17" Column="35" />
+      <File FileName="CFSessionDB/CFSessionDB/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="CFSessionDB/CFSessionDB/View/RestauantList.xaml" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CFSessionDB.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+</Properties>
