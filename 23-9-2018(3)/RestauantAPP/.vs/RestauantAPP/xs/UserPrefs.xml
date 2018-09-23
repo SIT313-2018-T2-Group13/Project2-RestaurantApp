@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{81CFC167-2056-4BB0-A218-A4B462209735}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestauantAPP/App.xaml.cs">
+    <Files>
+      <File FileName="RestauantAPP/App.xaml.cs" Line="15" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RestauantAPP.Android PreferredExecutionTarget="Android.Nexus_5X_API_28" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <DisabledProjects>
+    <String>RestauantAPP.iOS/RestauantAPP.iOS.csproj</String>
+  </DisabledProjects>
+</Properties>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="RestauantAPP.View.HomePage">
+      <StackLayout>
+        <Button Text="Australian" Clicked="BtnAus_Onclicked"></Button>
+        <Button Text="Chinese" Clicked="BtnChi_Onclicked"></Button>
+        <Button Text="Italian" Clicked="BtnIta_Onclicked"></Button>
+        <Button Text="Japanese" Clicked="BtnJap_Onclicked"></Button>
+        <Button Text="Korean" Clicked="BtnKor_Onclicked"></Button>
+        <Button Text="Mexican" Clicked="BtnMex_Onclicked"></Button>
+    </StackLayout>
+
+</ContentPage>

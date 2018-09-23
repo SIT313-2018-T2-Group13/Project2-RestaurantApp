@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="RestauantAPP.Index">
+   <StackLayout>
+        <Button Text="Restauant" Clicked="BtnR_Onclicked"></Button>
+       
+        <Button Text="Notice" Clicked="BtnN_Onclicked"></Button>
+        <Button Text="About This App" Clicked="BtnA_Onclicked"></Button>
+        <Button Text="LOGIN" Clicked="BtnL_Onclicked"></Button>
+    </StackLayout>
+
+</ContentPage>

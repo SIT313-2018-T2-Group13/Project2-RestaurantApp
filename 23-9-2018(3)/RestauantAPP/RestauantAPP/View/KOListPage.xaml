@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="RestauantAPP.View.KOListPage">
+    <ListView ItemsSource="{Binding KO}" SelectedItem="{Binding KOSelected}" RowHeight="130">
+    <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <ContentView>
+                        <StackLayout Orientation="Vertical" BackgroundColor="Green" Padding="10,2,0,0">
+                            <StackLayout Padding="8,5,0,0">
+                                <Label Text="{Binding ResName}" TextColor="Yellow" FontSize="22" VerticalOptions="StartAndExpand" />
+                                <Label Text="{Binding Address, StringFormat='Address: {0:N}'}" FontSize="16" />
+                                <Label Text="{Binding PNumber, StringFormat='PNumber: {0:N}'}" FontSize="16" />
+                                <Label Text="{Binding OHours, StringFormat= 'OHours : {0:N}'}" FontSize="16" />
+                                <Label Text="{Binding Price, StringFormat= 'Price : {0:N}'}" FontSize="16" />
+                            </StackLayout>
+                        </StackLayout>
+                    </ContentView>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="RestauantAPP.OAUthLoginPage">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="LightYellow">
+            <Label Text="Welcome to RestauantAPP  !"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Login Google OAUth" Clicked="OnLoginClicked" BackgroundColor="LightGreen"  />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

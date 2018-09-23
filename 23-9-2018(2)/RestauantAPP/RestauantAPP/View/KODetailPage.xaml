@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="RestauantAPP.View.KODetailPage">
+    <StackLayout Orientation="Vertical" BackgroundColor="Green" Spacing="0" Padding="10,2,0,0">
+        <StackLayout Padding="8,5,0,0">
+            <Label Text="{Binding KO.ResName, StringFormat='ResName : {0:N}'}" TextColor="Yellow" Font="22" VerticalOptions="StartAndExpand"></Label>
+            <Label Text="{Binding KO.Address, StringFormat='Address : {0:N}'}" TextColor="Yellow" Font="22" VerticalOptions="StartAndExpand"></Label>
+            <Label Text="{Binding KO.PNumber, StringFormat='PNumber : {0:N}'}" TextColor="Yellow" Font="22" VerticalOptions="StartAndExpand"></Label>
+            <Label Text="{Binding KO.OHours, StringFormat='OHours : {0:N}'}" TextColor="Maroon" Font="22" VerticalOptions="StartAndExpand"></Label>
+             <Label Text="{Binding KO.Price, StringFormat='Price : {0:N}'}" TextColor="Maroon" Font="22" VerticalOptions="StartAndExpand"></Label>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

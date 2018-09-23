@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{81CFC167-2056-4BB0-A218-A4B462209735}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestauantAPP/Index.xaml">
+    <Files>
+      <File FileName="RestauantAPP/View/AUListPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="RestauantAPP/View/LOGEINPage.xaml" Line="6" Column="1" />
+      <File FileName="RestauantAPP/Index.xaml" Line="8" Column="43" />
+      <File FileName="RestauantAPP/Index.xaml.cs" Line="17" Column="102" />
+      <File FileName="RestauantAPP/View/HomePage.xaml.cs" Line="19" Column="113" />
+      <File FileName="RestauantAPP/App.xaml.cs" Line="12" Column="10" />
+      <File FileName="RestauantAPP/obj/Debug/netstandard2.0/Index.xaml.g.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RestauantAPP.Android PreferredExecutionTarget="Android.Nexus_5X_API_28" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <DisabledProjects>
+    <String>RestauantAPP.iOS/RestauantAPP.iOS.csproj</String>
+  </DisabledProjects>
+</Properties>
