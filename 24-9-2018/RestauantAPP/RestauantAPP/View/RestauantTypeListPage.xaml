@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="RestauantAPP.View.RestauantTypeListPage">
+     <ListView ItemsSource="{Binding TypeTitle}" SelectedItem="{Binding RestauantTypeSelected}" RowHeight="130">
+    <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <ContentView>
+                        <StackLayout Orientation="Vertical" BackgroundColor="Green" Padding="10,2,0,0">
+                            <StackLayout Padding="8,5,0,0">
+                                <Label Text="{Binding TypeTitle}" TextColor="Yellow" FontSize="22" VerticalOptions="StartAndExpand" />
+                                
+                            </StackLayout>
+                        </StackLayout>
+                    </ContentView>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
