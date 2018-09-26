@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{81CFC167-2056-4BB0-A218-A4B462209735}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestauantAPP.iOS/Resources/LaunchScreen.storyboard">
+    <Files>
+      <File FileName="RestauantAPP/Model/AUData.cs" Line="16" Column="44" />
+      <File FileName="RestauantAPP/Model/CNData.cs" Line="16" Column="46" />
+      <File FileName="RestauantAPP/Model/ITData.cs" Line="16" Column="55" />
+      <File FileName="RestauantAPP/Model/Notice.cs" Line="5" Column="6" />
+      <File FileName="RestauantAPP/Data/NoticeManager.cs" Line="18" Column="47" />
+      <File FileName="RestauantAPP/ViewModel/NoticeViewModel.cs" Line="32" Column="22" />
+      <File FileName="RestauantAPP/View/NoticePage.xaml" Line="22" Column="1" />
+      <File FileName="RestauantAPP/View/NoticePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="RestauantAPP/Index.xaml" Line="17" Column="1" />
+      <File FileName="RestauantAPP/Index.xaml.cs" Line="13" Column="10" />
+      <File FileName="RestauantAPP/View/ABListPage.xaml" Line="21" Column="15" />
+      <File FileName="RestauantAPP/View/TestConnectivityPage.xaml" Line="16" Column="1" />
+      <File FileName="RestauantAPP/View/TestConnectivityPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="RestauantAPP.iOS/Resources/LaunchScreen.storyboard" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/11.14.0.14/lib/msbuild/iOS/Xamarin.iOS.Common.targets" Line="1328" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RestauantAPP.Android PreferredExecutionTarget="Android.Nexus_5X_API_28" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <DisabledProjects>
+    <String>RestauantAPP.iOS/RestauantAPP.iOS.csproj</String>
+  </DisabledProjects>
+</Properties>
